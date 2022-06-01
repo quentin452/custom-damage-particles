@@ -1,37 +1,32 @@
-.history
-# gradle
-
-.gradle/
-build/
-out/
-classes/
-saves/
-config/
-logs/
+.gradle
+.settings
+/.idea/
+/.vscode/
+/run/
+/build/
+/eclipse/
+.classpath
+.project
+/bin/
+/config/
+/crash-reports/
+/logs/
 options.txt
+/saves/
+usernamecache.json
+banned-ips.json
+banned-players.json
+eula.txt
+ops.json
+server.properties
+servers.dat
 usercache.json
-
-# eclipse
-
-*.launch
-
-# idea
-
-.idea/
+whitelist.json
+/out/
 *.iml
 *.ipr
 *.iws
-
-# vscode
-
-.settings/
-.vscode/
-bin/
-.classpath
-.project
-
-# fabric
-
-run/
-
-*.7z
+src/main/resources/mixins.*.json
+*.bat
+*.DS_Store
+!gradlew.bat

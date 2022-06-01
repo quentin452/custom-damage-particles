@@ -1,0 +1,14 @@
+[{
+  "modid": "${modId}",
+  "name": "${modName}",
+  "description": "Displays damage indicators and health bars for all entities.",
+  "version": "${modVersion}",
+  "mcversion": "${minecraftVersion}",
+  "url": "http://torocraft.net/",
+  "updateUrl": "",
+  "authorList": ["torocraft"],
+  "credits": "The Forge and FML guys, for making Forge and FML",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]
