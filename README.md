@@ -1,10 +1,13 @@
 # Damage particles
 
-This is a stripped version of "torohealth damage indicators" for 1.7.10.
+This is a stripped version of "ToroHealth Damage Indicators" for 1.7.10.
 Only contains the damage particles
 
+## History
+Back then, in 2020, I backported this mod because there was no info on the damage you do to mobs in the GTNH modpack, and I thought it would be cool to see what damage you do in the form of particles so I saw this mod as an opportunity to fork it and remove things that were not needed
+Now after 2 years I have decided to publish it on curseforge/modrinth so that more people can get to know it and include it in their modpacks.
 
-# ToroHealth Damage Indicators
+## ToroHealth Damage Indicators
 
 With ToroHealth Damage Indicators, damage given, received, or mitigated will be displayed as a number that pops off of the entity.
 
