@@ -1,3 +1,9 @@
+# Damage particles
+
+This is a stripped version of "torohealth damage indicators" for 1.7.10.
+Only contains the damage particles
+
+
 # ToroHealth Damage Indicators
 
 With ToroHealth Damage Indicators, damage given, received, or mitigated will be displayed as a number that pops off of the entity.
