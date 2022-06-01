@@ -1,13 +1,12 @@
-# Damage particles
+# Custom Damage particles
 
 [![Build and test](https://github.com/seitenca/damage-particles/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/seitenca/damage-particles/actions/workflows/build-and-test.yml)
 [![Release tagged build](https://github.com/seitenca/damage-particles/actions/workflows/release-tags.yml/badge.svg)](https://github.com/seitenca/damage-particles/actions/workflows/release-tags.yml)
 
-This is a stripped version of "ToroHealth Damage Indicators" for 1.7.10.
-Only contains the damage particles
+This is a stripped version of "ToroHealth Damage Indicators" for 1.7.10 that contains only the damage particles.
 
 ## History
-Back then, in 2020, I backported this mod because there was no info on the damage you do to mobs in the GTNH modpack, and I thought it would be cool to see what damage you do in the form of particles so I saw this mod as an opportunity to fork it and remove things that were not needed
+Back in 2020, I backported this mod because there was no info on the damage you do to mobs (only waila) in the GTNH modpack, and I thought it would be cool to see what damage you do in the form of particles so I saw this mod as an opportunity to fork it and remove things that were not needed.
 
 Now after 2 years I have decided to publish it on curseforge/modrinth so that more people can get to know it and include it in their modpacks.
 
