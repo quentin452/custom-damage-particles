@@ -5,6 +5,7 @@ Only contains the damage particles
 
 ## History
 Back then, in 2020, I backported this mod because there was no info on the damage you do to mobs in the GTNH modpack, and I thought it would be cool to see what damage you do in the form of particles so I saw this mod as an opportunity to fork it and remove things that were not needed
+
 Now after 2 years I have decided to publish it on curseforge/modrinth so that more people can get to know it and include it in their modpacks.
 
 ## ToroHealth Damage Indicators
